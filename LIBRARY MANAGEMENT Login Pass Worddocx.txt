@@ -1,0 +1,6 @@
+Admin Email = Admin@gmail.com
+Admin Pass = 123456
+
+User Email = Abuki@gmail.com
+User Pass = 123456
+
